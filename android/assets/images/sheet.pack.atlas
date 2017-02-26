@@ -1,0 +1,26 @@
+sheet.pack.png
+size: 272,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundgreen
+ rotate: false
+ xy: 112,0
+ size: 47,16
+ orig: 47,16
+ offset: 0,0
+ index: -1
+groundbrown
+ rotate: false
+ xy: 159,0
+ size: 48,31
+ orig: 48,31
+ offset: 0,0
+ index: -1
+rockgreen
+ rotate: false
+ xy: 112,32
+ size: 47,15
+ orig: 47,15
+ offset: 0,0
+ index: -1

@@ -1,0 +1,34 @@
+characters.pack.png
+size: 736,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+herowalk-1
+  rotate: false
+  xy: 6, 71
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+herowalk-2
+  rotate: false
+  xy: 38, 70
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+herowalk-3
+  rotate: false
+  xy: 70, 71
+  size: 18, 25
+  orig: 18, 25
+  offset: 0,0
+  index: -1
+herowalk-4
+  rotate: false
+  xy: 102, 70
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+
